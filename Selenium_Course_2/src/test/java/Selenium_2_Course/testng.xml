@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Selenium_2_Course.Selenium_2_2_40_Listeners"/>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="D:/IntellIJ-selenium/Selenium_Course_2/src/test/java/Selenium_2_Course">
+        <classes>
+            <class name="Selenium_2_Course.Selenium_2_2_40_Listeners_ExtentReport"/>
+        </classes>
+    </test>
+</suite>
